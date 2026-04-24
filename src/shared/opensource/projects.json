@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOR2m87w",
+      "name": "Team-finder",
+      "createdAt": "2026-04-01T06:08:26Z",
+      "url": "https://github.com/roshan665/Team-finder",
+      "description": "Hackathon project to help students find teammates based on skills and shared interests.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "simple-icons:typescript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDORXqomg",
+      "name": "telegram-order-bot-",
+      "createdAt": "2026-02-24T12:14:34Z",
+      "url": "https://github.com/roshan665/telegram-order-bot-",
+      "description": "Python-based Telegram automation bot for handling order and workflow style interactions.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDORTUkCQ",
+      "name": "house-price-prediction2.0",
+      "createdAt": "2026-02-18T18:40:58Z",
+      "url": "https://github.com/roshan665/house-price-prediction2.0",
+      "description": "Improved machine learning notebook project for predicting house prices with better preprocessing and model flow.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDORTUEYQ",
+      "name": "house-price-prediction",
+      "createdAt": "2026-02-18T18:29:08Z",
+      "url": "https://github.com/roshan665/house-price-prediction",
+      "description": "Initial version of a house price prediction project built in notebook workflow.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOQqP8qw",
+      "name": "ChatBot-",
+      "createdAt": "2025-12-17T07:20:20Z",
+      "url": "https://github.com/roshan665/ChatBot-",
+      "description": "TypeScript chatbot experiment created as a fun learning project in conversational workflows.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "simple-icons:typescript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOP6-uWA",
+      "name": "my-webpage",
+      "createdAt": "2025-10-02T12:53:55Z",
+      "url": "https://github.com/roshan665/my-webpage",
+      "description": "Personal webpage repository for early web development practice and profile presentation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "GitHub",
+          "iconifyClass": "simple-icons:github"
+        }
+      ]
+    }
+  ]
+}

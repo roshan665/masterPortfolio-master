@@ -1,0 +1,47 @@
+.raw_logo {
+  width: min(90vw, 900px);
+  height: auto;
+}
+
+.loader-name {
+  font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+  font-size: 84px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: none;
+}
+
+.loader-name-stroke {
+  fill: transparent;
+  stroke-width: 2;
+  stroke-dasharray: 1400;
+  stroke-dashoffset: 1400;
+  animation: drawName 2.3s ease forwards;
+}
+
+.loader-name-fill {
+  opacity: 0;
+  animation: revealName 1.2s ease forwards 1.9s;
+}
+
+@keyframes drawName {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes revealName {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .loader-name {
+    font-size: 52px;
+    letter-spacing: 1px;
+  }
+}
