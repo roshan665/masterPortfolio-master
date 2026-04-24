@@ -26,16 +26,16 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1x7XOHhfjFl0nKBVkJUqmNDCtsvxG0-yw/view?usp=drivesdk",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/roshan665/masterPortfolio-master",
   githubProfile: "https://github.com/roshan665",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/roshan665",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
+  // linkedin: "https://www.linkedin.com/in/roshan-sahani-019a7236b/",
   // gmail: "as1917378@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // gitlab: "https://gitlab.com/roshan665",
 
   {
     name: "Github",
